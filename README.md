@@ -13,6 +13,4 @@ make
 ./pycdc Login/login.pyc
 ```
 
-Para los usuarios windows, pueden usar:
-
-https://github.com/IngenieroRicardo/pycdc/releases
+Para los usuarios windows, pueden usar: https://github.com/IngenieroRicardo/pycdc/releases
