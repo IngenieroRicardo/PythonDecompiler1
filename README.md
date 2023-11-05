@@ -12,3 +12,7 @@ cmake CMakeLists.txt
 make
 ./pycdc Login/login.pyc
 ```
+
+Para los usuarios windows, pueden usar:
+
+https://github.com/IngenieroRicardo/pycdc/releases
