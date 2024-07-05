@@ -7,10 +7,10 @@ Esta aplicacion fue creada para ser descompilada facilmente usando: https://gith
 ```bash
 git clone https://github.com/zrax/pycdc
 cd pycdc
-git clone https://github.com/IngenieroRicardo/Login
+git clone https://github.com/IngenieroRicardo/PythonDecompiler1
 cmake CMakeLists.txt
 make
-./pycdc Login/login.pyc
+./pycdc PythonDecompiler1/login.pyc
 ```
 
 Para los usuarios windows, pueden usar: https://github.com/IngenieroRicardo/pycdc/releases
